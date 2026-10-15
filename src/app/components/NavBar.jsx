@@ -7,7 +7,7 @@ const NavBar = () => {
         {n:"04" , label:"contact" , href:"#contact"},
     ]
   return (
-    <div className="flex justify-between flex-col md:flex-row py-4 px-6 border-b border-black">
+    <div className="flex justify-between flex-col md:flex-row py-4 px-6 border-b-3 border-black">
 
         <div className="">
             
