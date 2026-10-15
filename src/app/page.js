@@ -1,9 +1,9 @@
-import Hero from "./components/Hero"
+import AnnouncementBar from "./components/AnnouncementBar"
 import NavBar from "./components/NavBar"
 export default function Home() {
   return (
    <div className="">
-    <Hero />
+    <AnnouncementBar />
     <NavBar />
    </div>
   )

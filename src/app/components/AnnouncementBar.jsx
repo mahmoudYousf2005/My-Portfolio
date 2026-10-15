@@ -1,4 +1,4 @@
-const Hero = () => {
+const AnnouncementBar = () => {
   return (
     <div className="flex flex-col md:flex-row justify-between
      py-3 px-6 text-white bg-black font-label text-lg">
@@ -8,4 +8,4 @@ const Hero = () => {
   )
 }
 
-export default Hero
+export default AnnouncementBar
