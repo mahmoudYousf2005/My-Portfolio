@@ -1,10 +1,10 @@
 
 const NavBar = () => {
     const nav = [
-        {n:"01" , label:"work" , href:"#work"},
-        {n:"02" , label:"about" , href:"#about"},
-        {n:"03" , label:"skills" , href:"#skills"},
-        {n:"04" , label:"contact" , href:"#contact"},
+        {n:"01" , label:"work" , href:"#Work"},
+        {n:"02" , label:"about" , href:"#About"},
+        {n:"03" , label:"skills" , href:"#Skills"},
+        {n:"04" , label:"contact" , href:"#Contact"},
     ]
   return (
     <div className="flex justify-between flex-col md:flex-row py-5 px-6 border-b-3 border-black">
