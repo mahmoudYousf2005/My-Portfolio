@@ -3,6 +3,7 @@ import NavBar from "./components/NavBar"
 import Hero from "./components/Hero"
 import HeroIntro from "./components/HeroIntro"
 import Skills from "./components/Skills"
+import Projects from "./components/Projects"
 export default function Home() {
   return (
    <div className="">
@@ -11,6 +12,7 @@ export default function Home() {
     <Hero />
     <HeroIntro />
     <Skills />
+    <Projects />
    </div>
   )
 }
