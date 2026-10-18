@@ -6,8 +6,8 @@ const HeroIntro = () => {
         {/* Text */}
         <div className="">
             <p className="text-lg font-semibold font-body">
-                Hi, I&apos;m Mahmoud Yousef. I build reaponsive web <br />
-                experiences, e-commerse platform, and <br />
+                Hi, I&apos;m Mahmoud Yousef. I build responsive web <br />
+                experiences, e-commerce platform, and <br />
                 dashboards using React and Next.js.
             </p>
         </div>

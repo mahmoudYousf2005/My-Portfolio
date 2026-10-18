@@ -15,12 +15,12 @@ const Contact = () => {
 
           <h2 className="px-3 py-1.5 border uppercase w-fit text-xl rounded-lg mt-4 font-semibold">open to freelance projects</h2>
 
-          <div className="flex gap-4 mt-4">
-            <a href="" className="font-semibold border-b"
+          <div className="flex flex-col md:flex-row  gap-4 mt-4">
+            <a href="" className="font-semibold border-b w-fit"
             >GitHub</a>
-            <a href=""  className="font-semibold border-b"
+            <a href=""  className="font-semibold border-b w-fit"
             >LinkedIn</a>
-            <a href=""  className="font-semibold border-b"
+            <a href=""  className="font-semibold border-b w-fit"
             >mahmoudyoseef2005@gmail.com</a>
           </div>
         </div>

@@ -8,7 +8,7 @@ const Skills = () => {
 
                 <h1 className="text-6xl font-bold font-display uppercase">the developer</h1>
                 <p className="my-5 font-semibold  text-gray-600 font-body">I&apos;m Mahmoud Yousef, a frontend developer who enjoys building responsive web
-                    interfaces and practical wep applications. I focus on clean UI, reusable components,
+                    interfaces and practical web applications. I focus on clean UI, reusable components,
                     and turning ideas into functional products.
                 </p>
 
@@ -35,7 +35,7 @@ const Skills = () => {
                     <div className="py-3 flex items-center justify-between">
 
                         <h3 className=" uppercase font-bold text-lg">availability</h3>
-                        <h3 className=" capitalize text-lg text-gray-700 font-semibold">full-time / freelanser</h3>
+                        <h3 className=" capitalize text-lg text-gray-700 font-semibold">full-time / freelancer</h3>
 
                     </div>
 
@@ -78,7 +78,7 @@ const Skills = () => {
                         <h3 className="font-bold ">ready</h3>
                     </div>
                     <div className=" uppercase flex justify-between mb-2">
-                        <h3 className="font-semibold text-gray-700">tailwid css</h3>
+                        <h3 className="font-semibold text-gray-700">tailwind css</h3>
                         <h3 className="border-b-2 border-dotted flex-1  -translate-y-1 mx-1"></h3>
                         <h3 className="font-bold ">ready</h3>
                     </div>
@@ -88,7 +88,7 @@ const Skills = () => {
                         <h3 className="font-bold ">ready</h3>
                     </div>
                     <div className=" uppercase flex justify-between mb-2">
-                        <h3 className="font-semibold text-gray-700">chadcn/ui</h3>
+                        <h3 className="font-semibold text-gray-700">shadcn/ui</h3>
                         <h3 className="border-b-2 border-dotted flex-1  -translate-y-1 mx-1"></h3>
                         <h3 className="font-bold ">ready</h3>
                     </div>
