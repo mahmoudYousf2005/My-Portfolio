@@ -7,7 +7,7 @@ import logo from "../../../public/logo.png"
     stack:["next.js" , "tailwind css" , "chadcn" , "supabase" , "chart.js"],
     categoris:"e-commerce",
     links:[
-        {id:1,name:"live demo" , color:"orange-600" ,href:"click-shop-red.vercel.app"} ,
+        {id:1,name:"live demo" , color:"orange-600" ,href:"https://click-shop-red.vercel.app"} ,
         {id:2,name:"source code",  href:"https://github.com/mahmoudYousf2005/Click-Shop"}
     ]
 },
@@ -18,7 +18,7 @@ import logo from "../../../public/logo.png"
     stack:["next.js" , "tailwind css" , "chadcn" , "supabase"  ],
     categoris:"e-commerce",
     links:[
-        {id:1,name:"live demo", color:"orange-600" ,href:"click-shop-red.vercel.app"} ,
+        {id:1,name:"live demo", color:"orange-600" ,href:"https://click-shop-red.vercel.app"} ,
         {id:2,name:"source code",  href:"https://github.com/mahmoudYousf2005/Click-Shop"}
     ]
 },
@@ -29,7 +29,7 @@ import logo from "../../../public/logo.png"
     stack:["next.js" , "tailwind css" , "chadcn" , "supabase"  ],
     categoris:"e-commerce",
     links:[
-        {id:1,name:"live demo" , color:"orange-600",href:"click-shop-red.vercel.app"} ,
+        {id:1,name:"live demo" , color:"orange-600",href:"https://click-shop-red.vercel.app"} ,
         {id:2,name:"source code",  href:"https://github.com/mahmoudYousf2005/Click-Shop"}
     ]
 },

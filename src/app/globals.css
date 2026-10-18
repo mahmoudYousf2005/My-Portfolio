@@ -5,7 +5,9 @@
   --font-body: var(--font-archivo), system-ui, sans-serif;
   --font-label: var(--font-courier), monospace;
 }
-
+html{
+  scroll-behavior:smooth;
+}
 /* 
 :root {
   --background: #ffffff;

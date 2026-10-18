@@ -2,7 +2,7 @@
 const NavBar = () => {
     const nav = [
         {n:"01" , label:"work" , href:"#work"},
-        {n:"02" , label:"about" , href:"#about"},
+        {n:"02" , label:"about" , href:"#skills"},
         {n:"03" , label:"skills" , href:"#skills"},
         {n:"04" , label:"contact" , href:"#contact"},
     ]

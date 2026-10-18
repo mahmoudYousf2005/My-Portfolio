@@ -21,9 +21,9 @@ const Hero = () => {
                 <h4 className="font-label uppercase my-5 font-bold text-lg">frontend developer</h4>
                 <h2 className="uppercase font-display font-bold text-3xl mb-4">[ mahmoud yousef ]</h2>
                 <hr className=""/>
-                <p className="mt-5 font-semibold capitalize">next.js & react</p>
-                <p className="font-semibold capitalize">supabase integration</p>
-                <p className="font-semibold capitalize ">responsive UI development</p>
+                <p className="mt-5 font-semibold capitalize font-label">next.js & react</p>
+                <p className="font-semibold capitalize font-label">supabase integration</p>
+                <p className="font-semibold capitalize font-label">responsive UI development</p>
             </div>
 
         </div>
